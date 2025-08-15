@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1038529002.svg)](https://doi.org/10.5281/zenodo.16884305)
+
 # Solar Energy to Methanol
 
 Code for calculations in the paper: "From solar radiation to green methanol ― An energetic comparison of electricity- and biomass-based provision pathways"
