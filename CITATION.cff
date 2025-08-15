@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Code for calculations in the paper: 'From solar radiation to green methanol ― An energetic comparison of electricity- and biomass-based provision pathways'"
+title: "solar-energy-to-methanol"
+repository: "https://github.com/w-tusche/solar-energy-to-methanol"
+version: "0.1.0"
+date-released: "2025-08-15"
+license: "MIT"
+authors:
+  - family-names: "Tuschewitzki"
+    given-names: "Wolfram"
+    orcid: "https://orcid.org/0009-0009-9028-9744"
+  - family-names: "Scherzinger"
+    given-names: "Marvin"
+    orcid: "https://orcid.org/0000-0003-4674-3582"
+  - family-names: "Bube"
+    given-names: "Stefan"
+    orcid: "https://orcid.org/0000-0001-7623-3773"

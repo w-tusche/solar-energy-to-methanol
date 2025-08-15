@@ -1,0 +1,47 @@
+# Config Setup
+config.py
+
+__pycache__/
+
+# All Hidden Folders
+.*/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Ignore Log files
+*.log
+
+# Ignore .bak files
+*.bak
+
+# Ignore thumbinail files
+*Thumbs.db
+
+# Ignore Log files
+*.html
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+data/results/*
+img/*
+!img/system_methanol.png
+!img/Reduced_energy_requirement.png
+!img/sankey_digestion.png
+!img/sankey_electro.png
+!img/sankey_gasification.png
+!img/sankey_photosynthesis.png
+
+# Negate a rule
+!.gitignore

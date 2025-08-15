@@ -1,0 +1,27 @@
+
+eta_pv_real: 22 # % (Photovoltaic) Source @FraunhoferInstituteforSolarEnergySystems.2024
+
+eta_el_real_lower_value: 54 # % (Electrolysis) HHV lower end of range @Buttler.2018
+
+eta_el_real_higher_value: 71 # % (Electrolysis) HHV upper end of range @Buttler.2018
+
+wmin_DAC_real: 2000 # kWhel/t Fasihi et al. (= 316.80  # kJ/mol )
+
+eta_syngas_prod_real_lower_value: 45.02 # (calculated in gas_production.ipynb: syngas_prod_real_low[0])
+eta_syngas_prod_real_higher_value: 56.24  # (calculated in gas_production.ipynb: syngas_prod_real_high[0])
+
+eta_photosynthesis_real: 1  # %  Source: 10.1126/science.1200165 (< 1)
+eta_anaerobic_digestion_lower_value: 45  # %  Source:  @Poschl.2010
+eta_anaerobic_digestion_higher_value: 66  # % Source: @Poschl.2010
+eta_gasification_lower_value: 60  # % Source: @Kan.2015
+eta_gasification_higher_value: 75  # % Source: @Kan.2015
+
+# Reforming and conditioning
+eta_gas_conditioning_lower_value: 85  # %  Value for gasification pathway
+eta_gas_conditioning_higher_value: 95  # % Value for gasification pathway
+eta_ref_conditioning_lower_value: 80  # % Value for biogas plant pathway
+eta_ref_conditioning_higher_value: 92  # % Value for biogas plant pathway
+
+# Methanol syntheses
+eta_conv_meoh: 78  # Source: @Bube.2024 (for bio pathways)
+eta_direct_meoh: 76  # % Source: @Bube.2024b (for el pathway)

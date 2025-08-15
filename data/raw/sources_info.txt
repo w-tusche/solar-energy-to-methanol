@@ -1,0 +1,9 @@
+astmg173.xls
+Source: NREL: https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html
+The American Society for Testing and Materials (ASTM) G-173 spectra represent terrestrial solar spectral irradiance on a surface of specified orientation under one and only one set of specified atmospheric conditions.
+
+
+McCree_Absorptance.csv:
+Absorptance from Table VIII (Absorptance of field plant species (mean)).
+McCree, K. J. (1972): The action spectrum, absorptance and quantum yield of photosynthesis in crop plants.
+In: Agricultural Meteorology (9), S. 191–216.

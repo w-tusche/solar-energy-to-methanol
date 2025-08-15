@@ -1,0 +1,22 @@
+name: solar-to-methanol
+channels:
+- conda-forge
+dependencies:
+- python>=3.12.4
+- pip
+
+- numpy=2.0.0
+- pandas
+- scipy
+- matplotlib
+- plotly=5.22.0  # make sure plotly and kaleido versions match for png export
+- python-kaleido=0.1.0  # to make images from plotly Figures
+
+# Jupyter
+- ipython
+- ipykernel
+- jupyter
+
+# dev tools
+- pre-commit
+- black
