@@ -35,6 +35,7 @@ env.bak/
 venv.bak/
 
 data/results/*
+!data/results/.gitkeep
 img/*
 !img/system_methanol.png
 !img/Reduced_energy_requirement.png
