@@ -32,7 +32,7 @@ The following contributed to this code:
 
 - Wolfram Tuschewitzki
 - Marvin Scherzinger
-- Wolfram Tuschewitzki
+- Stefan Bube
 
 Additionally the main part of the Shockley-Queisser limit calculation stems from the [pypi library SQlimit](https://pypi.org/project/sqlimit/) licensed under MIT license. For further information check the extra [README.md](./src/SQLimit/README.md).
 
